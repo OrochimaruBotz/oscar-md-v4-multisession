@@ -9,7 +9,7 @@ conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply
     mediaUrl: "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ",
     mediaType: 2,
     description: "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ", 
-    title: '𝘰𝘴𝘤𝘢𝘳-𝘮𝘶𝘭𝘵𝘪𝘥𝘦𝘷𝘪𝘤𝘦',
+    title: 'gojo-𝘮𝘶𝘭𝘵𝘪𝘥𝘦𝘷𝘪𝘤𝘦',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig  }}})
