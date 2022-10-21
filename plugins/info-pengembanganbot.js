@@ -23,10 +23,10 @@ let jarot = `*▸ —「 𝘐𝘯𝘧𝘰𝘳𝘮𝘢𝘴𝘪 𝘛𝘦𝘯𝘵�
 
 「𝘔𝘶𝘯𝘨𝘬𝘪𝘯 𝘔𝘢𝘶 𝘋𝘰𝘯𝘢𝘴𝘪」
 
-⫹⫺ Via Pulsa : 6285850539404
-⫹⫺ Via Dana : 6285850539404
+⫹⫺ Via Pulsa : 6288804947282
+⫹⫺ Via Dana : 6288804947282
 ⫹⫺ Via Saweria :
-⫹⫺ https://saweria.co/jarotoffc
+⫹⫺ https://saweria.co/humanzboti 
 
 「 𝘐𝘬𝘶𝘵𝘪 𝘚𝘰𝘴𝘪𝘢𝘭 𝘮𝘦𝘥𝘪𝘢 𝘉𝘰𝘵」
 
@@ -34,7 +34,7 @@ let jarot = `*▸ —「 𝘐𝘯𝘧𝘰𝘳𝘮𝘢𝘴𝘪 𝘛𝘦𝘯𝘵�
 *❉ 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 𝘠𝘰𝘶𝘵𝘶𝘣𝘦 𝘉𝘰𝘵*
 ⫹⫺ https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ
 *❉ 𝘍𝘰𝘭𝘭𝘰𝘸 𝘐𝘯𝘴𝘵𝘢𝘴𝘨𝘳𝘢𝘮 𝘉𝘰𝘵*
-⫹⫺ https://Instagram.com/jarotr_
+⫹⫺ https://Instagram.com/humanzbtoi
 
 「 𝘑𝘰𝘪𝘯 𝘎𝘳𝘰𝘶𝘱 𝘉𝘰𝘵 𝘒𝘢𝘬 」
 
@@ -46,10 +46,10 @@ let jarot = `*▸ —「 𝘐𝘯𝘧𝘰𝘳𝘮𝘢𝘴𝘪 𝘛𝘦𝘯𝘵�
 
 `
 conn.sendButtonDoc(m.chat, jarot, wm,'Makasih Yang Sudah Suport','You', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/jarotr_",
+    mediaUrl: "https://Instagram.com/humanzboti",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/jarotr_", 
-    title: 'oscar-MultiDevice',
+    description: "https://Instagram.com/humanzboti", 
+    title: 'Gojo-MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig
